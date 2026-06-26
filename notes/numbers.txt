@@ -1,0 +1,8 @@
+**: get the power of two numbers
+//: get the result of division and round it down, return int
+/: get the result of division and return float
+%: get the remaining of division
+
+int / int --> return float
+int // int --> return int
+float / int --> return float

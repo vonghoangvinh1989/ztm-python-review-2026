@@ -1,0 +1,49 @@
+# finish
+# Python Basics
+numbers -> done
+math functions -> done
+developer fundamentals -> done
+operator precedence -> done
+operator precedence exercise -> done
+optional bin() and complex -> done
+endorsements on linkedin -> done
+variable -> done
+expressions vs statements -> done
+augumented assignment operator -> done
+strings -> done
+string concatenation -> done
+type conversion -> done
+escape sequences -> done
+formatted strings -> done
+formatted strings exercise -> done
+string indexes -> done
+immutability -> done
+built-in functions and methods -> done
+booleans -> done
+exercise type conversion -> done
+developer fundamentals 2 -> done
+exercise password checker -> done
+lists -> done
+list slicing -> done
+matrix -> done
+list method -> done
+list method 2 -> done
+list method 3 -> done
+common list patterns -> done
+list unpacking -> done
+none -> done
+dictionaries -> done
+developer fundamentals 3 -> done
+dictionary keys -> done
+dictionary methods -> done
+dictionary methods 2 -> done
+dictionary methods 2 exercise -> done
+tuples -> done
+tuples 2 -> done
+sets -> done
+sets 2 -> done
+sets 2 exercise -> done
+
+# Python Basics 2
+breaking the flow -> done
+conditional logic --> waiting
