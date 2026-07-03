@@ -29,7 +29,8 @@ def long_time2():
 long_time()
 long_time2()
 
+
 # to create generator
 def generator_function(num):
-    for i in range(num)
+    for i in range(num):
         yield i
