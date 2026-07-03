@@ -46,4 +46,108 @@ sets 2 exercise -> done
 
 # Python Basics 2
 breaking the flow -> done
-conditional logic --> waiting
+conditional logic -> done
+indentation in python -> done
+truthy vs falsey -> done
+ternary operator -> done
+short circuting -> done
+logical operators -> done
+exercise logical operators -> done
+is vs == -> done
+for loops -> done
+iterables -> done
+exercise tricky counter -> done
+range -> done
+enumerate -> done
+while loop -> done
+while loop 2 -> done
+break continue pass -> done
+our first guy -> done
+developer fundamental 4 -> done
+exercise find duplicates -> done
+function -> done
+parameters and arguments -> done
+default parameters and keyword arguments -> done
+return -> done
+exercise tesla -> done
+methods vs functions -> done
+docstrings -> done
+clean code -> done
+args and kwargs -> done
+exercise functions -> done
+walrus operator -> done
+scope -> done
+scope rules -> done
+global keyword -> done
+nonlocal -> done
+nonlocal exercise -> done
+
+# developer environment
+mac python install -> done
+windows python install -> done
+python developer tools -> done
+sublime text -> done
+optional terminal commands -> done
+using the command line or terminal -> done
+visual studio code -> done
+pycharm -> done
+code formatting -> done
+jupyter notebook -> done
+section review -> done
+
+# advanced python: object oriented programming
+what is oop -> done
+what is oop part 2 -> done
+create our own object -> done
+attributes and methods -> done
+__init__ -> done
+exercise cats everywhare -> done
+class method and static method -> done
+reviewing what we know so far -> done
+developer fundamentals -> done
+encapsulation -> done
+abstraction -> done
+private and public variables -> done
+inheritance -> done
+inheritance 2 -> done
+polymorphism -> done
+exercise pets everywhere -> done
+super -> done
+object introspection -> done
+dunder methods -> done
+exercise extending list -> done
+multiple inheritance -> done
+method resolution order -> done
+
+# advanced python: functional programming
+functional programming -> done
+what is functional programming -> done
+pure functions -> done
+map -> done
+filter -> done
+zip -> done
+reduce -> done
+exercise map filter zip reduce -> done
+lambda expression -> done
+exercise lambda expression -> done
+list comprehensions -> done
+exercise comprehensions -> done
+exercise imposter syndrome -> done
+
+# advanced python decorators
+decorators -> done
+higher order functions -> done
+decorators 2 -> done
+decorators 3 -> done
+why do we need decorators -> done
+execise authenticated -> done
+
+# advanced python error handling
+errors in python -> done
+error handling -> done
+error handling 2 -> done
+exercise error handling -> done
+error handling 3 -> done
+
+# advanced python: generators
+generators --> waiting
