@@ -150,4 +150,22 @@ exercise error handling -> done
 error handling 3 -> done
 
 # advanced python: generators
-generators --> waiting
+generators -> done
+generators 2 -> done
+generators performance -> done
+under the hood of generators -> done
+exercise fibonacci numbers -> done
+100 python exercise -> later
+
+# modules in python
+modules in python -> done
+packages in python -> done
+different ways to import -> done
+__name__ -> done
+python built-in modules -> done
+python built-in modules 2 -> done
+exercise guessing game -> done
+python package index -> done
+pip install -> done
+uv package manager -> done
+virtual environment --> waiting
