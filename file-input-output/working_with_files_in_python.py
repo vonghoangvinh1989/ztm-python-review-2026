@@ -20,6 +20,6 @@ my_file.close()
 
 
 # note
-# .read() -> read whole file
-# .readline() -> read one line, process each line
+# .read() -> read whole file, search all file
+# .readline() -> read one line, process each line, appropriate for big log file
 # .readlines() -> read all lines, make into a list
