@@ -13,9 +13,9 @@ d = pattern.match(string)
 # print(a.start())  # when the text found start
 # print(a.end())  # when the text found end
 # print(a.group())
-# print(b)
+print(b)
 
 # return object only full match, the search string and compile is exactly the same
 # print(c)
 
-print(d)
+# print(d)
