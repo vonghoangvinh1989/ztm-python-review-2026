@@ -3,9 +3,6 @@ import script
 
 
 class TestMain(unittest.TestCase):
-    def setUp(self):
-        print("about to test a function")
-
     def test_do_stuff(self):
         test_param = 10
         result = script.do_stuff(test_param)
@@ -25,9 +22,6 @@ class TestMain(unittest.TestCase):
         test_param = ""
         result = script.do_stuff(test_param)
         self.assertEqual(result, "please enter number")
-
-    def tearDown(self):
-        print("cleaning up")
 
 
 if __name__ == "__main__":

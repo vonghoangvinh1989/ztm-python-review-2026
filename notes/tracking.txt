@@ -168,4 +168,35 @@ exercise guessing game -> done
 python package index -> done
 pip install -> done
 uv package manager -> done
-virtual environment --> waiting
+virtual environment -> done
+useful modules -> done
+intersting tidbit python dict -> done
+useful modules 2 -> done
+developer fundamentals 6 -> done
+
+# debugging in python
+how to debug code -> done
+
+# file i/o
+working with files in python -> done
+read write and append -> done
+file paths -> done
+file io errors -> done
+exercise translator -> done
+
+# regular expression
+regular expressions -> done
+regular expressions 2 -> done
+exercise interactive regex -> done
+regular expression 3 -> done
+exercise password validation -> done
+exercise password validation 2 -> done
+
+# testing in python
+testing introduction -> done
+unittest -> done
+writing unit tests -> done
+writing unit test 2 -> done
+exercise testing -> done
+
+# career of a python developer
