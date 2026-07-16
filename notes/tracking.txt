@@ -200,3 +200,25 @@ writing unit test 2 -> done
 exercise testing -> done
 
 # career of a python developer
+python careers -> done
+what if i do not have enough experience -> done
+now what -> done
+
+# scripting with python
+section overview -> done
+what is image processing -> done
+developer fundamentals -> done
+images with python -> done
+images with python 2 -> done
+images with python 3 -> done
+exercise jpg to png pokedex convert -> done
+solution jpg to png pokedex converter -> done
+opencv -> done
+quick note upcomming lecture -> done
+pdfs with python -> done
+exercise pdf merger -> done
+solution watermarker -> done
+exercise watermarker -> done
+send emails with python -> done
+send emails with python 2 -> done
+send emails with python 3 --> waiting
