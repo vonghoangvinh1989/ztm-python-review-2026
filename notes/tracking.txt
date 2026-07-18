@@ -221,4 +221,22 @@ solution watermarker -> done
 exercise watermarker -> done
 send emails with python -> done
 send emails with python 2 -> done
-send emails with python 3 --> waiting
+send emails with python 3 -> done
+password checker project -> done
+how hackers work -> done
+password api -> done
+optional hash function -> done
+password checker -> done
+password checker 2 -> done
+password checker 3 -> done
+password checker 4 -> done
+twitter api -> done
+our first twitter bot -> done
+our first twitter bot 2 -> done
+our first twitter bot 3 -> done
+our first twitter bot 4 -> done
+sms with python -> done
+sms with python 2 -> done
+sms with python 3 -> done
+exercise build something funny --> waiting, maybe done later
+
