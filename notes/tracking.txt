@@ -240,3 +240,20 @@ sms with python 2 -> done
 sms with python 3 -> done
 exercise build something funny --> waiting, maybe done later
 
+# scraping data with Python
+web scraping introduction -> done
+web scraping and api -> done
+how googlebot works -> done
+our hacker news project -> done
+requesting data -> done
+beautifulsoup basics -> done
+quick note .storylink to .titleline -> done
+beautifulsoup selectors -> done
+hacker news project -> done
+hacker news project 2 -> done
+hacker news project 3 -> done
+solution hacker news project 3 -> done
+what to do next with scraping -> done
+
+# web development with python
+section overview --> waiting
