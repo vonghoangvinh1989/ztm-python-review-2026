@@ -256,4 +256,11 @@ solution hacker news project 3 -> done
 what to do next with scraping -> done
 
 # web development with python
-section overview --> waiting
+section overview -> done
+how websites work -> done
+how websites work 2 -> done
+building our first server -> done
+quick note flask versions -> done
+setting up flask -> done
+building a flask server -> done
+flask templates --> waiting
