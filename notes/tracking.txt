@@ -263,4 +263,28 @@ building our first server -> done
 quick note flask versions -> done
 setting up flask -> done
 building a flask server -> done
-flask templates --> waiting
+flask templates -> done
+flask static files -> done
+templating engine -> done
+url parameters -> done
+mime types -> done
+files needed for next video -> done
+building a portfolio -> done
+free html templates -> done
+building a portfolio 2 -> done
+building a portfolio 3 -> done
+building a portfolio 4 -> done
+html forms -> done
+building a portfolio 5 -> done
+building a portfolio 6 -> done
+building a portfolio 7 -> done
+quick fix new line -> done
+quick note about databases -> done
+optional how databases work -> done
+building a portfolio 8 -> done
+building a portfolio 9 -> done
+
+# automation / testing 
+section overview -> done
+quick note selenium version -> done
+selenium introduction --> waiting
