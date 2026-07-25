@@ -287,4 +287,7 @@ building a portfolio 9 -> done
 # automation / testing 
 section overview -> done
 quick note selenium version -> done
-selenium introduction --> waiting
+selenium introduction -> done
+selenium basics -> done
+selenium basics 2 -> done
+selenium basics 3 --> waiting
