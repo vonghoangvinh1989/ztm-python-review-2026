@@ -312,4 +312,4 @@ machine learning 4 -> done
 quick note joblib update -> done
 machine learning 5 -> done
 machine learning 6 -> done
-exercise really smart brain --> waiting
+exercise really smart brain -> done
