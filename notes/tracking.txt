@@ -290,4 +290,26 @@ quick note selenium version -> done
 selenium introduction -> done
 selenium basics -> done
 selenium basics 2 -> done
-selenium basics 3 --> waiting
+selenium basics 3 -> done
+
+# ai machine learning and data science
+section overview -> done
+ai machine learning and data science -> done
+how machine learning works -> done
+history of data -> done
+types of machine learning -> done
+machine learning 101 -> done
+tools in machine learning -> done
+kaggle datasets -> done
+data science 1 -> done
+data science 2 -> done
+data science 3 -> done
+machine learning 1 -> done
+machine learning 2 -> done
+machine learning 3 -> done
+optional k nearest neighbour -> done
+machine learning 4 -> done
+quick note joblib update -> done
+machine learning 5 -> done
+machine learning 6 -> done
+exercise really smart brain --> waiting
